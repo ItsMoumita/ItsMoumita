@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="220" src="https://i.ibb.co.com/wZQQpMm9/Blue-Modern-Professional-Linked-In-Banner.png"  />
-</div>
 
-###
 
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif"  />
